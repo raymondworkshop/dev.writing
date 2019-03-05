@@ -1,6 +1,7 @@
 # onwriting
 
 #### reference
+* [Writing in the Sciences](https://www.coursera.org/learn/sciwrite/home/welcome)
 * [writing](https://learnenglish.britishcouncil.org/en/writing)
 * [Advanced Writing](https://www.coursera.org/learn/advanced-writing/home/welcome)
 * [Essay Writing](https://www.coursera.org/learn/introduction-to-research-for-essay-writing/home/welcome)

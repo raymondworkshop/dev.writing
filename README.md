@@ -1,5 +1,10 @@
 # onwriting
 
+#### reading in english
+* [free kids books](https://freekidsbooks.org/)
+* [Free eBooks for Kids](https://www.kidsworldfun.com/ebooks.php)
+* [FREE eBook Library](https://www.oxfordowl.co.uk/welcome-back/for-home)
+
 #### reference
 * [The Elements of Style]
 * [Academic and Business Writing

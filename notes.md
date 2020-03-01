@@ -7,6 +7,7 @@
 
 #### reference
 * [The Elements of Style]
+* [tech writing](https://developers.google.com/tech-writing/one)
 * [Academic and Business Writing
 ](https://courses.edx.org/courses/course-v1:BerkeleyX+ColWri2.2x+2T2019/course/)
 * 
